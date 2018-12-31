@@ -1,0 +1,4 @@
+py -2调用python2
+py -3调用python3
+py -2 -m pip install xxx
+py -3 -m pip install xxx
